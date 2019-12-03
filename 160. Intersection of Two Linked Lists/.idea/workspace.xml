@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="329653a9-5877-4790-b2e8-5f759c3cd60f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/M1_brute-force/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M2_hash/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M3_Double pointer/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/M3_Double pointer/src/Solution2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/.idea/vcs.xml" afterDir="false" />
@@ -198,10 +194,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/M3_Double pointer/src/Solution2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="672">
+
               <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="e#0#719#0" expanded="true" />
@@ -210,6 +203,7 @@
           </provider>
         </entry>
       </file>
+
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -241,7 +235,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+
     <option name="x" value="359" />
     <option name="y" value="209" />
     <option name="width" value="1296" />
@@ -284,9 +278,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/M3_Double pointer/src" />
+
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -318,16 +310,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575036306592</updated>
-      <workItem from="1575036310373" duration="42310000" />
+
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42310000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -380,16 +368,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3_Double pointer/src/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3_Double pointer/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
+
           <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="e#0#719#0" expanded="true" />
@@ -397,6 +376,7 @@
         </state>
       </provider>
     </entry>
+
   </component>
   <component name="masterDetails">
     <states>
