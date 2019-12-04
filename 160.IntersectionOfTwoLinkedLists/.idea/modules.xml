@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/M1_brute-force/M1_brute-force.iml" filepath="$PROJECT_DIR$/M1_brute-force/M1_brute-force.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2_hash/M2_hash.iml" filepath="$PROJECT_DIR$/M2_hash/M2_hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M3_Double pointer/M3_Double pointer.iml" filepath="$PROJECT_DIR$/M3_Double pointer/M3_Double pointer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+    </modules>
+  </component>
+</project>
