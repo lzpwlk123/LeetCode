@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/M1_Stack/M1_Stack.iml" filepath="$PROJECT_DIR$/M1_Stack/M1_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2_ReverseInSite/M2_ReverseInSite.iml" filepath="$PROJECT_DIR$/M2_ReverseInSite/M2_ReverseInSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M3_Recursion/M3_Recursion.iml" filepath="$PROJECT_DIR$/M3_Recursion/M3_Recursion.iml" />
+    </modules>
+  </component>
+</project>
