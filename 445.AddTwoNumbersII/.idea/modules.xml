@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/M1/M1.iml" filepath="$PROJECT_DIR$/M1/M1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2_Recursion/M2_Recursion.iml" filepath="$PROJECT_DIR$/M2_Recursion/M2_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M3_toBigInteger/M3_toBigInteger.iml" filepath="$PROJECT_DIR$/M3_toBigInteger/M3_toBigInteger.iml" />
+    </modules>
+  </component>
+</project>
