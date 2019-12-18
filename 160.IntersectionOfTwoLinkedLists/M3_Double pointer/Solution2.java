@@ -13,15 +13,20 @@ public class Solution2 {
         ListNode tempSmall = null;
         int diff = 0;
 
-        if (lenA >= lenB){
-            diff = lenA - lenB;
-            tempBig = headA;
-            tempSmall = headB;
-        }else {
-            diff = lenB - lenA;
-            tempBig = headB;
-            tempSmall = headA;
-        }
+//        if (lenA >= lenB){
+//            diff = lenA - lenB;
+//            tempBig = headA;
+//            tempSmall = headB;
+//        }else {
+//            diff = lenB - lenA;
+//            tempBig = headB;
+//            tempSmall = headA;
+//        }
+
+        diff = lenA > lenB ? lenA - lenB : lenB - lenA;
+        tempBig = lenA > lenB ? headA : headB;
+        tempSmall = lenA > lenB ? headB : headA;
+
 
         while (diff > 0){
             diff --;
@@ -33,7 +38,6 @@ public class Solution2 {
             tempSmall = tempSmall.next;
         }
         return null;
-
     }
 
     private int getListNodeLength(ListNode headA){

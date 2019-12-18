@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/M1/M1.iml" filepath="$PROJECT_DIR$/M1/M1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2_FastSlowPointer&amp;ReverseHalfLinked-List/M2_FastSlowPointer&amp;ReverseHalfLinked-List.iml" filepath="$PROJECT_DIR$/M2_FastSlowPointer&amp;ReverseHalfLinked-List/M2_FastSlowPointer&amp;ReverseHalfLinked-List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2_FastSlowPointer&amp;ReverseHalfLinkedList/M2_FastSlowPointer&amp;ReverseHalfLinkedList.iml" filepath="$PROJECT_DIR$/M2_FastSlowPointer&amp;ReverseHalfLinkedList/M2_FastSlowPointer&amp;ReverseHalfLinkedList.iml" />
+    </modules>
+  </component>
+</project>

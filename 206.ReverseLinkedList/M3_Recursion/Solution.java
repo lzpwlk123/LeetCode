@@ -11,6 +11,8 @@
 //1. 为什么 “若现在正处在4”代表“4以后的都已经完成逆置”，而不是“4以前的都已经完成逆置” 即  null←1 ←2 ←3 ←4 →5 →null
 //   因为递归是栈，先进后出，从1开始进，那么1肯定是最后完成的
 //2.
+//   下一个必须指向 Ø，否则最后1的next就始终指向2，让链表产生循环
+//3. new_head 从最深层得到后，值不会再变，一路传上去
 class ListNode {
     int val;
     ListNode next;
@@ -20,9 +22,9 @@ class ListNode {
 public class Solution {
     public ListNode reverseList(ListNode head) {
         if (head == null || head.next == null) return head;
-        ListNode new_head = reverseList(head.next);
-        head.next.next = head;
+        ListNode new_head = reverseList(head.next); // 3.
+        head.next.next = head;  //注意这里不是 new_head.next = head；
         head.next = null;   //2.
-        return new_head;
+        return new_head;    //3.
     }
 }

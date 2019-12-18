@@ -2,22 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8542d90e-59b3-4d19-8aab-92df188fcd95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/M1_brute-force/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/M2_hash/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/M3_Double pointer/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../160. Intersection of Two Linked Lists/M3_Double pointer/Solution2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. Add Two Numbers/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. Add Two Numbers/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. Add Two Numbers/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. Add Two Numbers/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. Add Two Numbers/M1/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2. Add Two Numbers/M2_List2Number/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/M2_ReverseInSite/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/M2_ReverseInSite/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../234.PalindromeLinkedList/M2_FastSlowPointer&amp;ReverseHalfLinked-List/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../160.IntersectionOfTwoLinkedLists/M3_Double pointer/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../160.IntersectionOfTwoLinkedLists/M3_Double pointer/Solution2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/M3_Recursion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/M3_Recursion/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21.MergeTwoSortedLists/M1_Recursion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../21.MergeTwoSortedLists/M1_Recursion/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../234.PalindromeLinkedList/M1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../234.PalindromeLinkedList/M1/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,52 +16,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M1_Stack/Solution.java">
+        <entry file="file://$PROJECT_DIR$/M4_HeadInsertion/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M2_ReverseInSite/M2_ReverseInSite.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M2_ReverseInSite/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/M3_Recursion/M3_Recursion.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="125">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#596#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/M2_ReverseWhileTraversing/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M1_Stack/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="1" />
+              <folding>
+                <element signature="e#0#792#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/M3_Recursion/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="425">
+              <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -97,16 +82,9 @@
         <option value="$PROJECT_DIR$/M2_ReverseInSite/M2_ReverseInSite.iml" />
         <option value="$PROJECT_DIR$/M2_ReverseInSite/Solution.java" />
         <option value="$PROJECT_DIR$/M3_Recursion/M3_Recursion.iml" />
+        <option value="$PROJECT_DIR$/M4_HeadInsertion/M4_HeadInsertion.iml" />
+        <option value="$PROJECT_DIR$/M4_HeadInsertion/Solution.java" />
         <option value="$PROJECT_DIR$/M3_Recursion/Solution.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/M2_ReverseInSite/M2_ReverseInSite.iml" />
-        <option value="$PROJECT_DIR$/M3_Recursion/M3_Recursion.iml" />
       </list>
     </option>
   </component>
@@ -128,16 +106,39 @@
           <expand>
             <path>
               <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M2_ReverseInSite" type="462c0819:PsiDirectoryNode" />
+              <item name="M1_Stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
-              <item name="M2_ReverseInSite" type="462c0819:PsiDirectoryNode" />
+              <item name="M1_Stack" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M2_ReverseWhileTraversing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M2_ReverseWhileTraversing" type="462c0819:PsiDirectoryNode" />
               <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
               <item name="M3_Recursion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M3_Recursion" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M4_HeadInsertion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="206.ReverseLinkedList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M4_HeadInsertion" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -147,8 +148,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../21.MergeTwoSortedLists" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -178,18 +181,18 @@
       <option name="presentableId" value="Default" />
       <updated>1575382292552</updated>
       <workItem from="1575382295097" duration="2432000" />
-      <workItem from="1575464485177" duration="1843000" />
+      <workItem from="1575464485177" duration="4695000" />
+      <workItem from="1576584281801" duration="1517000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4275000" />
+    <option name="totallyTimeSpent" value="8644000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -230,24 +233,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M1_Stack/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M2_ReverseInSite/M2_ReverseInSite.iml">
+    <entry file="file://$PROJECT_DIR$/M2_ReverseWhileTraversing/M2_ReverseWhileTraversing.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M2_ReverseInSite/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -258,10 +247,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/M4_HeadInsertion/M4_HeadInsertion.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M1_Stack/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#792#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/M3_Recursion/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        <state relative-caret-position="425">
+          <caret line="25" column="62" selection-start-line="25" selection-start-column="62" selection-end-line="25" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M4_HeadInsertion/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#596#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M2_ReverseWhileTraversing/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -315,11 +338,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>M3_Recursion</last-edited>
+          <last-edited>M4_HeadInsertion</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="329653a9-5877-4790-b2e8-5f759c3cd60f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../234.PalindromeLinkedList/M2_FastSlowPointer&amp;ReverseHalfLinked-List/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/Closure&amp;CallBack/Closure&amp;CallBack.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/Closure&amp;CallBack/src/com/cs/Callbacks.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/ControlFramework/ControlFramework.iml" afterDir="false" />
@@ -16,53 +13,14 @@
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/CreateInnerClass/src/com/cs/OutClass.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/InnerConnectOut/InnerConnectOut.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/InnerConnectOut/src/com/cs/Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/Closure&amp;CallBack/com/cs/Callbacks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/Closure&amp;CallBack/com/cs/Callee1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/Closure&amp;CallBack/com/cs/Callee2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/Closure&amp;CallBack/com/cs/Callee2$Closure.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/Closure&amp;CallBack/com/cs/Callee2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/Closure&amp;CallBack/com/cs/Callee3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/Closure&amp;CallBack/com/cs/Caller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/Closure&amp;CallBack/com/cs/Incrementable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/Closure&amp;CallBack/com/cs/MyIncrement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/Event.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/GreenHouseControls$Bell.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/GreenHouseControls$LightOff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/GreenHouseControls$LightOn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/GreenHouseControls$Restart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/GreenHouseControls$Terminate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/GreenHouseControls$WaterOff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/GreenHouseControls$WaterOn.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/GreenHouseControls.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/ControlFramework/com/cs/run.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/InnerConnectOut/com/cs/Selector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/InnerConnectOut/com/cs/Sequence$SequenceSelecotr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/10.内部类/out/production/InnerConnectOut/com/cs/Sequence.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/11.持有对象/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/11.持有对象/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/11.持有对象/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/11.持有对象/AddElements/AddElements.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/11.持有对象/AddElements/src/com/cs/AddingGroups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/11.持有对象/out/production/AddElements/com/cs/AddingGroups.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/11.持有对象/out/production/AddElements/com/cs/exception.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/11.持有对象/out/production/AddElements/com/cs/group.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/11.持有对象/out/production/AddElements/com/cs/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/OverrideMethods&amp;Exceptions/OverrideMethods&amp;Exceptions.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/OverrideMethods&amp;Exceptions/src/com/cs/Dog.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/OverrideMethods&amp;Exceptions/src/com/cs2/Dog.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/Rethrow/Rethrow.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/Rethrow/src/com/cs/A.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/Rethrow/src/com/cs/InputFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/out/production/Rethrow/com/cs/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/12.异常/out/production/Rethrow/com/cs/InputFile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/Generator&amp;Collection/Generator&amp;Collection.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/Generator&amp;Collection/src/com/cs/CoffeeGenerator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/Generator&amp;Collection/src/com/cs/Generator.java" afterDir="false" />
@@ -87,35 +45,6 @@
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/LinkedStack/src/com/cs/LinkedStack.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/WildCardCharactor/WildCardCharactor.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/WildCardCharactor/src/com/cs/GenericReading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/CoffeeGenerator$CoffeeIterator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/CoffeeGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/Generator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/Generators.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/coffee/Americano.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/coffee/Cappuccino.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/coffee/Coffee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/coffee/Latte.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/Generator&amp;Collection/com/cs/coffee/Mocha.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/GenericInterface/com/cs/coffee/Americano.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/GenericInterface/com/cs/coffee/Cappuccino.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/GenericInterface/com/cs/coffee/Coffee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/GenericInterface/com/cs/coffee/Latte.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/GenericInterface/com/cs/coffee/Mocha.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/GenericInterface/com/cs/util/Generator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/GenericMethod&amp;GenericClass/com/cs/GenericClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/GenericMethod&amp;GenericClass/com/cs/GenericMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/LinkedStack/com/cs/LinkedStack$Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/LinkedStack/com/cs/LinkedStack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/WildCardCharactor/com/cs/Apple.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/WildCardCharactor/com/cs/Fruit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/WildCardCharactor/com/cs/GenericReading$CovariantReader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/WildCardCharactor/com/cs/GenericReading$Reader.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/WildCardCharactor/com/cs/GenericReading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/15.泛型/out/production/rename/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/CoverPrivate/CoverPrivate.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/CoverPrivate/src/com/com/cs/C.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/inherit/inherit.iml" afterDir="false" />
@@ -123,36 +52,10 @@
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/inherit/src/com/cs2/child.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/initialize priority/initialize priority.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/initialize priority/src/com/cs/combination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/CoverPrivate/com/com/cs/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/CoverPrivate/com/com/cs/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/CoverPrivate/com/com/cs/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/CoverPrivate/com/com/cs/func.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/inherit/com/cs/child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/inherit/com/cs/child2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/inherit/com/cs/child3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/inherit/com/cs/father.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/inherit/com/cs2/child.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/initialize priority/com/cs/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/initialize priority/com/cs/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/initialize priority/com/cs/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/initialize priority/com/cs/D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/7.继承/out/production/initialize priority/com/cs/combination.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/PolymorphismInConstruct/PolymorphismInConstruct.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/PolymorphismInConstruct/src/com/cs/polyconstructor.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/ReferenceCount&amp;ObjectNum/ReferenceCount&amp;ObjectNum.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/ReferenceCount&amp;ObjectNum/src/com/cs/counting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/out/production/PolymorphismInConstruct/com/cs/Glyph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/out/production/PolymorphismInConstruct/com/cs/RoundGlyph.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/out/production/PolymorphismInConstruct/com/cs/polyconstructor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/out/production/ReferenceCount&amp;ObjectNum/com/cs/composing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/out/production/ReferenceCount&amp;ObjectNum/com/cs/counting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/8.多态/out/production/ReferenceCount&amp;ObjectNum/com/cs/shared.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/Coupling/Coupling.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/Coupling/src/com/cs/Apply.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/Coupling/src/com/cs/filter/Filter.java" afterDir="false" />
@@ -160,26 +63,12 @@
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/Coupling/src/com/cs/filter/Wavaform.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/DiamondInheritance/DiamondInheritance.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/DiamondInheritance/src/com/cs/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/META-INF/Coupling.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/Apply.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/Downcase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/Processor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/Splitter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/Upcase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/filter/Filter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/filter/LowPass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/filter/Wavaform.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/filter/a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/filter/b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/filter/c.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/filter/d.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/Coupling/com/cs/filter/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/DiamondInheritance/com/cs/a.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/DiamondInheritance/com/cs/b.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/DiamondInheritance/com/cs/c.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/DiamondInheritance/com/cs/d.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/9.接口/out/production/DiamondInheritance/com/cs/test.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../ThinkingInJava/笔记.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../caogao/725.SplitLinkedListinParts/M1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/M3_Double pointer/Solution2.java" beforeDir="false" afterPath="$PROJECT_DIR$/M3_Double pointer/Solution2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../206.ReverseLinkedList/M3_Recursion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../206.ReverseLinkedList/M3_Recursion/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21.MergeTwoSortedLists/M1_Recursion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../21.MergeTwoSortedLists/M1_Recursion/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../234.PalindromeLinkedList/M1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/../234.PalindromeLinkedList/M1/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -193,7 +82,29 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/M3_Double pointer/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+              <folding>
+                <element signature="e#0#1016#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/M3_Double pointer/Solution2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="772">
+              <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -212,6 +123,7 @@
         <option value="$PROJECT_DIR$/M2_hash/src/Solution.java" />
         <option value="$PROJECT_DIR$/M3_Double pointer/src/Solution2.java" />
         <option value="$PROJECT_DIR$/M3_Double pointer/src/Solution.java" />
+        <option value="$PROJECT_DIR$/M3_Double pointer/Solution2.java" />
       </list>
     </option>
   </component>
@@ -236,16 +148,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="160.IntersectionOfTwoLinkedLists" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1_brute-force" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="160.IntersectionOfTwoLinkedLists" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M1_brute-force" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="160.IntersectionOfTwoLinkedLists" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M3_Double pointer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="160.IntersectionOfTwoLinkedLists" type="b2602c69:ProjectViewProjectNode" />
+              <item name="M3_Double pointer" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../206.ReverseLinkedList" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -280,16 +216,17 @@
       <workItem from="1575036310373" duration="43578000" />
       <workItem from="1575375616836" duration="747000" />
       <workItem from="1575382238846" duration="55000" />
+      <workItem from="1576583753711" duration="526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44380000" />
+    <option name="totallyTimeSpent" value="44906000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -323,39 +260,44 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/M1_brute-force/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/M1_brute-force/src/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/M2_hash/src/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/M3_Double pointer/src/Solution2.java" />
+    <entry file="file://$PROJECT_DIR$/M3_Double pointer/src/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/M1_brute-force/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="28" selection-start-line="17" selection-end-line="18" />
+        <state relative-caret-position="350">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
           <folding>
             <element signature="e#0#616#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M2_hash/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/M2_hash/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/M3_Double pointer/src/Solution2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="175">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
-            <element signature="e#0#1181#0" expanded="true" />
+            <element signature="e#0#710#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/M3_Double pointer/src/Solution.java">
+    <entry file="file://$PROJECT_DIR$/M3_Double pointer/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="323">
+          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
           <folding>
-            <element signature="e#0#630#0" expanded="true" />
+            <element signature="e#0#1016#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/M3_Double pointer/Solution2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="39" column="20" selection-start-line="39" selection-start-column="20" selection-end-line="39" selection-end-column="20" />
         </state>
       </provider>
     </entry>

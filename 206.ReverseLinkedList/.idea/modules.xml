@@ -3,8 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/M1_Stack/M1_Stack.iml" filepath="$PROJECT_DIR$/M1_Stack/M1_Stack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/M2_ReverseInSite/M2_ReverseInSite.iml" filepath="$PROJECT_DIR$/M2_ReverseInSite/M2_ReverseInSite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2_ReverseWhileTraversing/M2_ReverseWhileTraversing.iml" filepath="$PROJECT_DIR$/M2_ReverseWhileTraversing/M2_ReverseWhileTraversing.iml" />
       <module fileurl="file://$PROJECT_DIR$/M3_Recursion/M3_Recursion.iml" filepath="$PROJECT_DIR$/M3_Recursion/M3_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M4_HeadInsertion/M4_HeadInsertion.iml" filepath="$PROJECT_DIR$/M4_HeadInsertion/M4_HeadInsertion.iml" />
     </modules>
   </component>
 </project>
