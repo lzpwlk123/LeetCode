@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/M1/M1.iml" filepath="$PROJECT_DIR$/M1/M1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M2_Hash/M2_Hash.iml" filepath="$PROJECT_DIR$/M2_Hash/M2_Hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/M3_TwoPointers/M3_TwoPointers.iml" filepath="$PROJECT_DIR$/M3_TwoPointers/M3_TwoPointers.iml" />
+    </modules>
+  </component>
+</project>
